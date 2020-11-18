@@ -16,4 +16,3 @@ Files inside, directories offer much elegant code and explaination
 </pre>
 <br><br>
 Also see this : Beginners-Python-Examples/CONTRIBUTING.md<br>
-contact kalpaktake@gmail.com
